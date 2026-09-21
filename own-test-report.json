@@ -1,0 +1,46 @@
+{
+  "test_loss": 6.829219066544084,
+  "test_perplexity": 924.4685820641394,
+  "examples_evaluated": 6,
+  "examples_total": 6,
+  "skipped_too_long": 0,
+  "scope": "Small held-out starter set; not a broad quality benchmark",
+  "samples": [
+    {
+      "language": "en",
+      "question": "What is a string?",
+      "reference": "A string represents text. In Python, \"hello\" is a string containing five characters.",
+      "generated": "்்்்்்்்்்்்்்்்்்்்்்்்்்்்்்்்"
+    },
+    {
+      "language": "ta",
+      "question": "சரம் என்றால் என்ன?",
+      "reference": "சரம் உரையைக் குறிக்கும். Python இல் \"hello\" என்பது ஐந்து எழுத்துகளைக் கொண்ட சரம்.",
+      "generated": "்்்்்்்்்்்்்்்்்்்்்்்்்்்்்்்்"
+    },
+    {
+      "language": "tanglish",
+      "question": "String na enna?",
+      "reference": "String na text value. Python-la \"hello\" oru string; adhula five characters irukku.",
+      "generated": "்்்்்்்்்்்்்்்்்்்்்்்்்்்்்்்்"
+    },
+    {
+      "language": "en",
+      "question": "Why does Python raise NameError?",
+      "reference": "NameError occurs when a referenced name cannot be found. Check spelling and define the name before using it.",
+      "generated": "்்்்்்்்்்்்்்்்்்்்்்்்்்்்்்்்"
+    },
+    {
+      "language": "ta",
+      "question": "Python இல் NameError ஏன் வருகிறது?",
+      "reference": "பயன்படுத்திய பெயர் கிடைக்காதபோது NameError வருகிறது. எழுத்துப்பிழையைச் சரிபார்த்து, பயன்படுத்தும் முன் பெயரை வரையறுக்கவும்.",
+      "generated": "்்்்்்்்்்்்்்்்்்்்்்்்்்்்்்்்"
+    },
+    {
+      "language": "tanglish",
+      "question": "NameError epdi fix panradhu?",
+      "reference": "Use panra name define pannirukkiyaa paaru. Spelling correct-aa check pannu; use pannradhukku munnaadi define pannu.",
+      "generated": "்்்்்்்்்்்்்்்்்்்்்்்்்்்்்்்்"
+    }
+  ]
+}

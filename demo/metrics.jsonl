@@ -1,0 +1,5 @@
+{"step": 10, "train_loss": 4.721395015716553, "learning_rate": 0.00029453155143795715, "gradient_norm": 4.186357021331787, "elapsed_seconds": 0.3069575439999426, "tokens_per_second": 4169.957784130041, "gpu_peak_bytes": 0}
+{"step": 20, "train_loss": 3.948354721069336, "learning_rate": 0.00023798651035650565, "gradient_norm": 3.2997615337371826, "elapsed_seconds": 0.5247805120000066, "tokens_per_second": 4878.229929391829, "gpu_peak_bytes": 0}
+{"step": 30, "train_loss": 3.6619884967803955, "learning_rate": 0.0001457874968331065, "gradient_norm": 2.953186273574829, "elapsed_seconds": 0.7930657169999904, "tokens_per_second": 4841.969483343644, "gpu_peak_bytes": 0}
+{"step": 40, "train_loss": 3.5269923210144043, "learning_rate": 6.297380746217515e-05, "gradient_norm": 2.8171846866607666, "elapsed_seconds": 1.0377387629998793, "tokens_per_second": 4933.804327785909, "gpu_peak_bytes": 0}
+{"step": 50, "train_loss": 3.381624937057495, "learning_rate": 3e-05, "gradient_norm": 2.9297053813934326, "validation_loss": 3.452505588531494, "perplexity": 31.57941829240989, "elapsed_seconds": 1.2703633910000462, "tokens_per_second": 5037.9285528386, "gpu_peak_bytes": 0}

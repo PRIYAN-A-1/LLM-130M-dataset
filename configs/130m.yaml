@@ -1,0 +1,15 @@
+model:
+  context_length: 1024
+  embedding_dim: 768
+  gradient_checkpointing: true
+  mlp_dim: 3376
+  num_heads: 12
+  num_layers: 12
+  vocab_size: 50257
+training:
+  batch_size: 1
+  gradient_accumulation_steps: 8
+  max_steps: 1000
+  precision: auto
+  sequence_length: 1024
+  warmup_steps: 100

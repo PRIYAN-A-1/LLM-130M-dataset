@@ -1,0 +1,13 @@
+{
+  "parameters": 130046784,
+  "optimizer_steps": 2,
+  "device": "cpu",
+  "sequence_length": 32,
+  "batch_size": 1,
+  "accumulation": 1,
+  "tokenizer_vocab": 512,
+  "model_vocab": 50257,
+  "checkpoint_roundtrip": "exact tensor match",
+  "elapsed_seconds": 33.45466512799976,
+  "scope": "Synthetic-data execution test, not useful pretraining"
+}

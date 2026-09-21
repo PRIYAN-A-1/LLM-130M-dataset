@@ -1,0 +1,45 @@
+{
+  "input_records": 72,
+  "duplicates_removed": 0,
+  "records": {
+    "train": 60,
+    "validation": 6,
+    "test": 6
+  },
+  "groups": {
+    "train": 20,
+    "validation": 2,
+    "test": 2
+  },
+  "languages": {
+    "train": {
+      "en": 20,
+      "ta": 20,
+      "tanglish": 20
+    },
+    "validation": {
+      "en": 2,
+      "ta": 2,
+      "tanglish": 2
+    },
+    "test": {
+      "en": 2,
+      "ta": 2,
+      "tanglish": 2
+    }
+  },
+  "tokens": {
+    "train": 2969,
+    "validation": 387,
+    "test": 371
+  },
+  "tokenizer_vocab": 1347,
+  "tokenizer_training_split": "train only",
+  "scope": "Starter data; no claim of chat quality",
+  "source_files": [
+    {
+      "name": "records.jsonl",
+      "sha256": "575d3693eff8e98b5a6133f723d77cc95619285ebb719ff9febb35352c253106"
+    }
+  ]
+}

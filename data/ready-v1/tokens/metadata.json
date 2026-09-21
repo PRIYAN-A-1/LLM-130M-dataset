@@ -1,0 +1,16 @@
+{
+  "counts": {
+    "train": 2969,
+    "validation": 387,
+    "test": 371
+  },
+  "sha256": {
+    "train": "53568a8a068ada37b9970218025c25794f82301aad352adf8542741cea2f85b6",
+    "validation": "de61a74fbb4915ac9b23f833d9cd14dc088d2046a16eff07726371513be444e7",
+    "test": "de824dde31d73e798240c9d810a3c8683a79af5000073df236d82d67cacb3dee"
+  },
+  "tokenizer_hash": "eccebb700604880dfa384f2ddcde879d1332494bf679f4776b851298ca51f2e9",
+  "vocab_size": 1347,
+  "dtype": "uint32-little-endian",
+  "seed": 42
+}
